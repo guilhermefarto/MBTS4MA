@@ -5,6 +5,18 @@ This project provides the source code for the MBTS4MA tool. It aims to support t
 It is the main result of the master thesis of Guilherme de Cleva Farto, supervised by Andre Takeshi Endo.
 UTFPR - Campus Cornelio Procopio - Brazil 
 
+Publication:
+```
+@InProceedings{FartoEndo2017SBES,
+    author = "G. C. Farto and A. T. Endo",
+    title = "Reuse of model-based tests in mobile apps",
+    booktitle = "Proceedings of the 31st Brazilian Symposium on Software Engineering (SBES)",
+    year = "2017", 
+    numpages = {10},
+    location = {Fortaleza, Brazil},
+} 
+```
+
 # Folders
 
 - MBTS4MA-Runner: source code for the event runner that supports the test execution.
